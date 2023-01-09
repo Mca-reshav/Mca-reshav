@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>project</title>
+    <style>
+        .big-container{
+            display: flex;
+            flex-direction: column;
+            flex-wrap: wrap;
+            
+            color: white;
+            margin-left: -8px;
+            margin-right: 2px;
+            
+            
+        }
+        .header{
+            
+            padding: 5px;
+            color:rgb(41, 32, 89);
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            text-align: center;
+            font-size:2.75em;
+            line-height: 2;
+            letter-spacing: 0.25em;
+            
+            
+        }
+        .header,.navbar,.footer{
+            background-image: url("../Extras/wall\ \(3\).jpg");
+            color:rgb(158, 202, 219);
+        }
+        .navbar{
+            height: 20%;
+            
+            padding: 5px;
+            position: sticky;
+            top:0px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+        }
+        .navbar a{
+            color:rgb(118, 176, 198);
+            text-decoration: none;
+            padding: 10px;
+            font-weight: 500;
+        }
+        .navbar a:hover{
+            color:white;
+
+        }
+        .content{
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            width: 100%;
+            height:80%;
+            background-color: rgb(214, 219, 246);
+            
+            
+        }
+        .sidebar{
+            padding: 10px;
+            width: 24%;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            text-align: justify;
+            color: rgb(71, 70, 70);
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            border-right:2px solid rgb(71, 70, 70);
+        
+            
+        }
+        .user-img{
+            border-radius: 50%;
+            box-shadow: 0px 1px 2px black;
+            margin: auto;
+        }
+        .user-files a{
+            text-decoration: none;
+            color:black;
+            
+        }
+        .user-files a:hover{
+            font-weight: 500;
+        }
+        .user-files{
+            border-top: 2px solid rgb(71, 70, 70);
+           
+        }
+        .user-files li{
+            margin-top: 10px;
+            list-style-type:none;
+            padding-top: 10px;
+            
+        }
+        .wrapper{
+            
+            width: 71%;
+           
+            color:black;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            
+        }
+        .work-files li{
+            list-style-type:none;
+            padding-top: 10px;
+        }
+        .wrapper a{
+            text-decoration: none;
+            color: rgb(71, 70, 70);
+        }
+        button{
+            border: 1px solid black ;
+            border-radius: 30px;
+            padding: 5px;
+            height: 30px;
+            width: 75px;
+            color: rgb(214, 219, 246);
+            background-color: rgb(41, 32, 89);
+            font-weight: 600;
+            float:right;
+            
+        }
+        button:hover{
+            border-style: dotted;
+
+            
+        }
+        .footer{
+            height: 8%;
+            width: 100%;
+            padding: 5px;
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            
+        }
+        .footer a{
+            text-decoration: none;
+            padding: 5px;
+            color:rgb(118, 176, 198);
+            font-weight: 500;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+        }
+        .footer a:hover{
+            color:white;
+            
+        }
+       
+    </style>
+</head>
+<body>
+    <div class="big-container">
+        <div class="header" id="header">My Portfolio</div>
+        <div class="navbar" id="navbar">
+            
+            <a href="">HTML </a>
+            <a href="">CSS </a>
+            <a href="">JavaScript </a>
+            <a href="">Advance JS </a>
+            <a href="">Bootstrap </a>
+            <a href="">React.js </a>
+            <a href="">Contact Us </a>
+            
+        </div>
+        <div class="content" id="content">
+            <div class="sidebar" id="sidebar">
+        
+            <img src="..\extras\rpic.jpg" width="100px" height="100px" class="user-img">
+            <h2>Reshav Kumar Gupta</h2>
+            <p class="user-info">
+            My name is Reshav kumar gupta, I have done my schooling from Chasnalla Academy, Chasnalla then I have completed my BCA from Guru nanak college, Dhanbad and now I am pursuing MCA from Indira gandhi national open university.
+            <br><br>
+            Currently, I am learning Front-end Technologies like: HTML, CSS, JavaScript, Bootstrap, TailwindCSS, React.js and Angular and later on I will learn Back-end Technologies like: PHP, Node.js and Django including DBMS like: MySql, MongoDB and Oracle  
+            <br><br>
+            My aim is to make my career in field of web/app development and get placed in MNCs.
+    
+            </p>
+            <ul class="user-files">
+                <li><a target="_blank" href="../extras/RESHAV KR GUPTA.pdf" >Resume</a>: Resume of Reshav</li><hr>
+                <li><a target="_blank" href="../extras/191556563 MCA4 MCSP044.pdf" >MCSP044</a>: Mini-Project</li><hr>
+                <li><a target="_blank" href="../extras/employee database and payroll final report.pdf" >MCSP060</a>: Major-Project</li><hr>
+            </ul>
+            </div>
+            <div class="wrapper" id="wrapper">
+                <ul class="work-files">
+                    <h3>Document Object Model</h3><hr>
+                    <li><a target="_blank" href="../JS/DOM.html" >DOM method 1</a>: DOM Manipulation: <small>getElement, get/set methods, targeting method- querySelector, DOM CSS styling methods, addEventListener: </small></li>
+                    <li><a target="_blank" href="../JS/DOM2.html" >DOM method 2</a>: addEventListener<small>useCapture and removeEventListener: </small></li>
+                    <li><a target="_blank" href="../JS/DOM3.html" >DOM method 3</a>: classList method<small>add, remove, item, toggle, contains and length: </small></li>
+                    <li><a target="_blank" href="../JS/DOM4.html" >DOM method 4</a>: Traversal method: <small>parentNode, parentElement, Children, ChildNode, firstChild, firstElementChild, lastChild, lastElementChild, nextElementSibling      nextSibling, previousElementSibling, previousSibling
+                    </small></li>
+                    <li><a target="_blank" href="../JS/DOM5.html" >DOM method 5</a>: create method, append method and other methods- insertAdjacentText, insertAdjacentHTML, insertAdjacentElement</li>
+                    <li><a target="_blank" href="../JS/DOM6.html" >DOM method 6</a>: replace and remove method, cloneNode, contains, hasAttribute and hasChildNode, isEqualNode</li>
+                    <h3>Browser Object Model</h3><hr>
+                    <li><a target="_blank" href="../JS/BOM.html" >BOM method</a>:- window: <small>width and height, open and close, moveBy and moveTo, resizeBy and resizeTo, scrollBy and scrollTo, location and history- <small>back, forward and go</small> </small></li>
+                </ul>
+                
+            </div>
+        </div>
+        <div class="footer" id="footer">
+            <a href="">FAQ </a>
+            <a href="">Terms and Policy  </a>
+            <a href="">Privacy </a>
+            <a href="">Contact Us </a>
+            <a href="">&copy;</a>&nbsp;
+            <button onclick="scrollup()">Scroll up</button>
+        </div>
+        </div>
+    </div>
+    <script>
+        function scrollup(){
+            window.scrollTo(0,0);
+        }
+    </script>
+</body>
+</html>
