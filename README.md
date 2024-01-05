@@ -5,7 +5,7 @@
 
 💬 I'm a full-stack developer, enthusiastic about excelling in development tools
 
-📫 Just google my name: reshav gupta ahmedabad
+📫 To reach me just google it: reshav gupta ahmedabad
 
 ⚡ Fun fact: Sometimes I make silly mistakes, just like ChatGPT
 <!--
