@@ -1,12 +1,13 @@
 ### Hi there 👋
-👨‍💼 Creditt+                                                                                                                            
+👨‍💼 Currently working: Creditt+                                                                                                                            
 
-🌱 React | Angular | Node.js | Nest | Java | Python | PostgreSQL | Mongo | Docker | Kubernetes | GCP 
+🌱 React | Angular | React Native | Node.js | Nest | Java | Python | PostgreSQL | Mongo | Docker | Kubernetes | GCP 
 
-💬 I'm full stack dev, enthusiatic to excel dev tools
+💬 I'm a full-stack developer, enthusiastic about excelling in development tools
 
 📫 Just google my name: reshav gupta ahmedabad
 
+⚡ Fun fact: Sometimes I make silly mistakes, just like ChatGPT
 <!--
 **Mca-reshav/Mca-reshav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
