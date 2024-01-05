@@ -1,7 +1,10 @@
 ### Hi there 👋
-👨‍💼 Creditt+
+👨‍💼 Creditt+                                                                                                                            
+
 🌱 React | Angular | Node.js | Nest | Java | Python | PostgreSQL | Mongo | Docker | Kubernetes | GCP 
+
 💬 I'm full stack dev, enthusiatic to excel dev tools
+
 📫 Just google my name: reshav gupta ahmedabad
 
 <!--
