@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi Dev 👋
 👨‍💼 Currently working: Creditt+                                                                                                                            
 
-🌱 React | Angular | React Native | Node.js | Nest | Java | Python | PostgreSQL | Mongo | Docker | Kubernetes | GCP 
+🌱 React | Angular | React Native | Node.js | Nest | Java | Python | PostgreSQL | PL/SQL | Mongo | Docker | Kubernetes | GCP 
 
 💬 I'm a full-stack developer, enthusiastic about excelling in development tools
 
