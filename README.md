@@ -1,5 +1,5 @@
 ### Hi Dev 👋
-👨‍💼 Currently working: Creditt+                                                                                                                            
+👨‍💼 Currently working: Technostacks               Ex-Creditt+                                                                                                        
 
 🌱 React | Angular | Node.js | Java | Python | PL/SQL | Mongo | Docker | Kubernetes | GCP 
 
