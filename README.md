@@ -2,7 +2,7 @@
 👨‍💼 Currently working: Technostacks  
    Ex-Creditt+                                                                                                        
 
-🌱 React | Angular | Node.js | Java | Python | PL/SQL | Mongo | Docker | Kubernetes | GCP 
+🌱 React | Angular | Node.js | Java | Python | GO | PL/SQL | Mongo | Docker | Kubernetes | GCP 
 
 💬 I'm a full-stack developer, enthusiastic about excelling in development tools
 
