@@ -1,14 +1,9 @@
 ### Hi Dev 👋
 👨‍💼 Currently working: Genesis Advertising
 
-   Ex-Technostacks
-   Ex-Creditt+
-   Ex-Ingram Micro
-   
-
 🌱 React | Angular | Node.js | Java | Python | GO | PL/SQL | Mongo | Docker | Kubernetes | GCP 
 
-💬 I'm a full-stack developer, enthusiastic about excelling in development tools
+💬 I'm a senior full stack engineer, enthusiastic about excelling in development tools
 
 📫 To reach me just google it: reshav gupta ahmedabad
 
