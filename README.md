@@ -1,5 +1,6 @@
 ### Hi Dev 👋
 👨‍💼 Currently working: Genesis Advertising
+
    Ex-Technostacks
    Ex-Creditt+
    Ex-Ingram Micro
