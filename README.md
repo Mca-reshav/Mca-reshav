@@ -1,6 +1,8 @@
 ### Hi Dev 👋
-👨‍💼 Currently working: Technostacks  
-   Ex-Creditt+                                                                                                        
+👨‍💼 Currently working: Genesis Advertising
+   Ex-Technostacks
+   Ex-Creditt+
+   Ex-Ingram Micro
 
 🌱 React | Angular | Node.js | Java | Python | GO | PL/SQL | Mongo | Docker | Kubernetes | GCP 
 
